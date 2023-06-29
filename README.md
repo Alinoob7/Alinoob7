@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ali Noob</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-="<a href='https://www.linkpicture.com/view.php?img=LPic649d8fffe6580876129820'><img src='https://www.linkpicture.com/q/imgg.jpg.gif' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic649d8fffe6580876129820'><img src='https://www.linkpicture.com/q/imgg.jpg.gif' type='image'></a>
 
 - 🔭 I’m currently working on **malware analysis**
 
