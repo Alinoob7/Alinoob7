@@ -1,8 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ali Noob</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-src=>https://www.linkpicture.com/q/imgg.jpg.gif<
-
 - 🔭 I’m currently working on **malware analysis**
 
 - 🌱 I’m currently learning **Frameworks**
